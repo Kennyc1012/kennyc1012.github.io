@@ -1,0 +1,29 @@
+html, body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
+body {
+  background-color: #f6f6f6;
+  padding-bottom: 50px;
+  padding-top: 80px;
+}
+
+header {
+  min-height: 80px;
+  background-color:#e51c23;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 99;
+}
+
+.headerTitle{
+    position: absolute;
+    color:#FFFFFF;
+    font-size: 22px;
+    display: inline;
+    margin-left: 48px;
+    margin-top:25px;
+    vertical-align: middle;
+}
